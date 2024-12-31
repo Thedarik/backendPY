@@ -1,0 +1,20 @@
+{
+    "ewrgggw5gw554g": {
+        "ism": "Humoyunf3",
+        "familiya": "DUJFER",
+        "rasm": "./rasim/ewrgggw5gw554g.png",
+        "rasm_pdf": "./rasim_pdf/ewrgggw5gw554g.pdf"
+    },
+    "1234": {
+        "ism": "Humoyun",
+        "familiya": "Davronov",
+        "rasm": "./rasim/1234.jpg",
+        "rasm_pdf": "./rasim_pdf/1234.pdf"
+    },
+    "12345": {
+        "ism": "Humoyun",
+        "familiya": "Davronov",
+        "rasm": "./rasim/12345.jpg",
+        "rasm_pdf": "./rasim_pdf/12345.pdf"
+    }
+}
